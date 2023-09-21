@@ -1,0 +1,12 @@
+some.html
+
+# 전체 선택자 사용 가능
+*.jpg 
+
+# 폴더 전체 제외 
+# temp
+
+# 폴더 내 특정 파일 제외 
+temp./temp.jpg
+
+!temp
