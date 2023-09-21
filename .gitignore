@@ -9,4 +9,4 @@ some.html
 # 폴더 내 특정 파일 제외 
 temp./temp.jpg
 
-!temp
+# !some.html
